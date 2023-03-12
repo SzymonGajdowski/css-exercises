@@ -1,0 +1,19 @@
+.oddNumber {
+    background-color: #ffb6c1;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.addition {
+    font-size: 24px;
+}
+
+#oneID {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#anotherID {
+    background-color: #90ee90;
+    font-weight: bold;
+    font-size: 24px;
+}
